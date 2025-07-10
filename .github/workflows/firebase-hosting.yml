@@ -19,4 +19,3 @@ jobs:
           firebaseServiceAccount: "${{ secrets.FIREBASE_SERVICE_ACCOUNT_BILLIMOA }}"
           channelId: live
           projectId: billimoa
-add firebase deploy github actions
